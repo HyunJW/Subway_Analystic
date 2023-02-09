@@ -1,1 +1,2 @@
-공공데이터 포털
+서울시 지하철 호선별 역별 유_무임 승하차 인원 정보 : http://data.seoul.go.kr/dataList/OA-12251/S/1/datasetView.do
+무임승차 대상별 현황 : https://kosis.kr/statHtml/statHtml.do?tblId=DT_357001_A027&orgId=357&language=kor&conn_path=&vw_cd=&list_id
