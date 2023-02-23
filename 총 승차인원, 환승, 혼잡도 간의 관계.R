@@ -22,3 +22,9 @@ ggpairs(c_t,columns=c(26:28),ggplot2::aes(colour=환승가능여부,alpha = 0.5)
   scale_color_nord('aurora')+
   scale_fill_nord('aurora')+
   theme_minimal()
+
+ggpairs(c_t,columns=c(22:25,28),ggplot2::aes(colour=환승가능여부,alpha = 0.5),
+        lower = list(continuous = "smooth"))+
+  scale_color_nord('aurora')+
+  scale_fill_nord('aurora')+
+  theme_minimal()
