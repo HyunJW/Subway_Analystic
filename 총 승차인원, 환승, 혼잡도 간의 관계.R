@@ -28,3 +28,16 @@ ggpairs(c_t,columns=c(22:25,28),ggplot2::aes(colour=환승가능여부,alpha = 0
   scale_color_nord('aurora')+
   scale_fill_nord('aurora')+
   theme_minimal()
+
+
+dfy<-read.csv("환승가능 승차인원.csv")
+dfn<-read.csv("환승불가능 승차인원.csv")
+var.test(dfy$총.승차인원, dfn$총.승차인원)
+t.test(dfy$총.승차인원, dfn$총.승차인원, alternative="two.sided", var.equal=F)
+l<-lm(df$총.승차인원~df$환승가능여부, data=df)
+summary(l)
+plot(l)
+
+df$환승<-ifelse(df$환승가능여부=='Y', 1, 0)
+cor(df$환승,df$총.승차인원, method = 'spearman', use = 'complete.obs')
+cor(c_t$환승가능노선수,c_t$총.승차인원, method = 'spearman', use = 'complete.obs')
