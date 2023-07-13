@@ -79,9 +79,12 @@
 
 #### 3. 가설 검정 및 시각화
 <ol>
-  <li>이용객 수와 혼잡도 사이에는 높은 상관관계가 존재한다.</li>
+  <li>이용객 수와 혼잡도 사이에는 약간의 상관관계가 존재한다.</li>
+  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/4b2d4697-f8e1-4853-8aae-561990a7d198" width=50%/>
   <li>노인 승차자 수는 혼잡도에 유의미한 영향을 주지 않는다.</li>
+  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/2cbd496a-0652-4c2a-b847-cbd6577631a5" width=50%/>
   <li>지하철 역의 구조와 혼잡도는 약간의 상관관계가 존재한다.</li>
+  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/a8f421db-c7cc-4c48-8774-cab97a875dac" width=50%/>
 </ol>
 
 #### 4. 결론
@@ -101,10 +104,11 @@
 ## 기대효과
 | 화면예시(전) | 화면예시(후) |
 | --- | --- |
-| 전 | 후 |
+| <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/0bb9486e-ce49-4d1d-99d9-d058362d6f5c"/>| <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/beb91c0c-1ae8-4e7e-bdbf-0aa592846da7"/> |
 
 ## 개선사항
-- 
+- 버스, 택시, 도보 이용 등 지하철 승하차 및 혼잡도에 영향을 줄만 한 기타 변수에 대한 고려가 더 필요하다.
+- 환승역 지정과 이용객 수의 상관관계 외에 둘 사이의 인과관계를 파악할 필요가 있다.
 
 ## 비고
 - 
