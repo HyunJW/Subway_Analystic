@@ -81,14 +81,15 @@
     - 유무임 승하차 전처리.ipynb
 
 #### 3. 가설 검정 및 시각화
-<ol>
-  <li>이용객 수와 혼잡도 사이에는 약간의 상관관계가 존재한다.</li>
-  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/4b2d4697-f8e1-4853-8aae-561990a7d198" width=50%/>
-  <li>노인 승차자 수는 혼잡도에 유의미한 영향을 주지 않는다.</li>
-  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/2cbd496a-0652-4c2a-b847-cbd6577631a5" width=50%/>
-  <li>지하철 역의 구조와 혼잡도는 약간의 상관관계가 존재한다.</li>
-  <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/a8f421db-c7cc-4c48-8774-cab97a875dac" width=50%/>
-</ol>
+| 가설 검증 및 시각화 |
+| --- |
+| 1. 이용객 수와 혼잡도 사이에는 약간의 상관관계가 존재한다. |  
+| <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/4b2d4697-f8e1-4853-8aae-561990a7d198"/> |
+| 2. 노인 승차자 수는 혼잡도에 유의미한 영향을 주지 않는다. |
+| <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/2cbd496a-0652-4c2a-b847-cbd6577631a5"/> |
+| 3. 지하철 역의 구조와 혼잡도는 약간의 상관관계가 존재한다. |
+| <img src="https://github.com/HyunJW/Subway_Analystic/assets/121409579/a8f421db-c7cc-4c48-8774-cab97a875dac"/> |
+
 
 #### 4. 결론
   - 이용객 수와 지학철 역의 구조가 혼잡도에 영향을 준다.
