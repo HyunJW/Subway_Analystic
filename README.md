@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/seaborn-%2328288C?style=flat-square&logo=seaborn&logoColor=white"/>
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/nodejs-nodedotjs?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nord-%23DAD9FF?style=flat-square&logo=Nord&logoColor=white"/>
   <img src="https://img.shields.io/badge/tidyverse-%231A162D?style=flat-square&logo=tidyverse&logoColor=white"/>
   <img src="https://img.shields.io/badge/GGally-%231A162D?style=flat-square&logo=GGally&logoColor=white"/>
 </div>
@@ -70,19 +70,15 @@
 
 #### 2. 데이터 수집 및 전처리
   - 지하철혼잡도정보(1 ~ 8호선 30분 단위 평균 혼잡도) 전처리
-    - ㅇ.ipynb
+    - 혼잡도데이터 전처리.ipynb
   - 역별 월별 노인 승하차인원 정보(1 ~ 8호선) 전처리
-    - ㅇ.ipynb
+    - 노인데이터 전처리.ipynb
   - 연도별 일별 시간대별 역별 승하차 인원 전처리
-    - ㅇ.ipynb
+    - 지하철 월별 시간대별 이용현황 전처리.ipynb
   - 지하철역사 건축 현황(1 ~ 9호선) 전처리
-    - ㅇ.ipynb
-  - 서울시 지하철 호선별 역별 유/무임 승하차 인원 정보 전처리
-    - ㅇ.ipynb
-  - 무임승차 대상별 현황 전처리
-    - ㅇ.ipynb
-  - 주요 연령계층별 추계인구(생산연령인구, 고령인구 등) 전처리
-    - ㅇ.ipynb
+    - 역사 건축 정보 전처리.ipynb
+  - 서울시 지하철 호선별 역별 유/무임 승하차 인원 정보 전처리, 무임승차 대상별 현황 전처리
+    - 유무임 승하차 전처리.ipynb
 
 #### 3. 가설 검정 및 시각화
 <ol>
@@ -118,5 +114,6 @@
 - 환승역 지정과 이용객 수의 상관관계 외에 둘 사이의 인과관계를 파악할 필요가 있다.
 
 ## 비고
-- 
+<a href="https://github.com/HyunJW/Subway_Analystic/files/12039831/1_.pdf">발표자료 링크</a>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=50)
