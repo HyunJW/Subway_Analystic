@@ -1,8 +1,18 @@
-# 지하철 혼잡도 원인 분석
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20지하철%20혼잡도%20원인%20분석&fontSize=50)
 
-### 수행 기간 : 2023.02.08 - 2023.03.03
+### 수행기간 : 2023.02.08 ~ 2023.03.03
 
-## 데치터 출처
+## 주제
+지하철 혼잡도 원인 분석
+
+## 팀원
+<ul>
+  <li><a href="https://github.com/songsurin">송수린</a></li>
+  <li><a href="https://github.com/YL-MMLA">이윤</a></li>
+  <li><a href="https://github.com/HyunJW">현정환</a></li>
+</ul>
+
+## 데이터 출처
 - 서울교통공사
   - 지하철혼잡도정보(1 ~ 8호선 30분 단위 평균 혼잡도)
   - 역별 월별 노인 승하차인원 정보(1 ~ 8호선)
@@ -14,12 +24,87 @@
 - 네이버 지하철: 지하철 경로 탐색
 - 통계청: 주요 연령계층별 추계인구(생산연령인구, 고령인구 등)
 
-## 사용한 언어 및 라이브러리
-- Python
-  - Pandas, Numpy, Matplotlib, Folium, JSON, requests, seaborn, selenium
-- R
-  - GGally, nord, tidyverse
+## 사용한 언어 및 라이브러리, 프레임워크
+#### 언어
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  R
+</div>
+
+#### 라이브러리
+<div align="left">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-F2F2F2?style=flat-square&logo=Matplotlib&logoColor=black"/>
+  Folium, JSON, requests, seaborn,
+</div>
+<div align="left">
+  GGally, nord, tidyverse
+</div>
   
+#### 프레임워크
+<div align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</div>  
+
+#### 툴
+<div align="left">
+  anaconda, colab
+</div>
+
+## 순서
+#### 1. 가설 수립
+<ol>
+  <li>ddd</li>
+  <li>eee</li>
+  <li>ccc</li>
+</ol>
+
+#### 2. 데이터 수집 및 전처리
+  - 지하철혼잡도정보(1 ~ 8호선 30분 단위 평균 혼잡도) 전처리
+    - 
+  - 역별 월별 노인 승하차인원 정보(1 ~ 8호선) 전처리
+    - 
+  - 연도별 일별 시간대별 역별 승하차 인원 전처리
+    - 
+  - 지하철역사 건축 현황(1 ~ 9호선) 전처리
+    - 
+  - 서울시 지하철 호선별 역별 유/무임 승하차 인원 정보 전처리
+    - 
+  - 무임승차 대상별 현황 전처리
+    - 
+  - 주요 연령계층별 추계인구(생산연령인구, 고령인구 등) 전처리
+    - 
+
+#### 3. 가설 검정 및 시각화
+<ol>
+  <li>ddd</li>
+  <li>eee</li>
+  <li>ccc</li>
+</ol>
+
+#### 4. 결론
+  - 
+
+#### 5. 해결방안 제시
+  - 
+
+## 기대효과
+| 화면예시(전) | 화면예시(후) |
+| --- | --- |
+| 전 | 후 |
+
+## 개선사항
+- 
+
+## 비고
+- 
+
+
+
+
+
 ## 데이터 분석
     
 1. 혼잡도와 이용객수의 관계
