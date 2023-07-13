@@ -28,7 +28,7 @@
 #### 언어
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  R
+  <img src="https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=R&logoColor=white"/>
 </div>
 
 #### 라이브러리
@@ -37,20 +37,27 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-F2F2F2?style=flat-square&logo=Matplotlib&logoColor=black"/>
-  Folium, JSON, requests, seaborn,
+  <img src="https://img.shields.io/badge/folium-%2377B829?style=flat-square&logo=folium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-%23000000?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/requests-ff6600?style=flat-square&logo=requests&logoColor=white"/>
+  <img src="https://img.shields.io/badge/seaborn-%2328288C?style=flat-square&logo=seaborn&logoColor=white"/>
 </div>
 <div align="left">
-  GGally, nord, tidyverse
+  <img src="https://img.shields.io/badge/nodejs-nodedotjs?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tidyverse-%231A162D?style=flat-square&logo=tidyverse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GGally-%231A162D?style=flat-square&logo=GGally&logoColor=white"/>
 </div>
   
 #### 프레임워크
 <div align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-%23276DC3?style=flat-square&logo=RStudio&logoColor=white"/>
 </div>  
 
 #### 툴
 <div align="left">
-  anaconda, colab
+  <img src="https://img.shields.io/badge/anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlecolab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </div>
 
 ## 순서
