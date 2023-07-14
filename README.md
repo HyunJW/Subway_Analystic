@@ -51,13 +51,13 @@
 #### 프레임워크
 <div align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RStudio-%23276DC3?style=flat-square&logo=RStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-%2375AADB?style=flat-square&logo=rstudio&logoColor=white"/>
 </div>  
 
 #### 툴
 <div align="left">
   <img src="https://img.shields.io/badge/anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/googlecolab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </div>
 
 ## 순서
@@ -115,6 +115,6 @@
 - 환승역 지정과 이용객 수의 상관관계 외에 둘 사이의 인과관계를 파악할 필요가 있다.
 
 ## 비고
-<a href="https://github.com/HyunJW/Subway_Analystic/files/12039831/1_.pdf">발표자료 링크</a>
+<a href="https://github.com/HyunJW/Subway_Analystic/files/12039831/subway_analysis.pdf">발표자료 다운로드</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=50)
